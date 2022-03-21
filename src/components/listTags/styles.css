@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.container span {
+    font-size: 2rem;
+    text-transform: capitalize;
+    padding-right: 20px;
+}
+
+.container span:hover {
+    cursor: pointer;
+}
